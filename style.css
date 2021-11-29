@@ -1,0 +1,15 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.name-highlight{
+    color: orange;
+}
+.upper-section{
+    width: 40%;
+    float: left;
+    margin: 5%;
+    
+}
+.upper-section img{
+    width: 100%;
+}
